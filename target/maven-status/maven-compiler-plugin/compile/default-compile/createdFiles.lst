@@ -1,0 +1,9 @@
+com\CRM\Pages\HomePage.class
+com\CRM\TestUtil\util.class
+com\CRM\Pages\SignupPage.class
+com\CRM\Pages\ContactsPage.class
+com\CRM\Pages\Companies.class
+com\CRM\Pages\LoginPage.class
+com\CRM\Pages\TaskPage.class
+com\CRM\Pages\DealsPage.class
+com\CRM\TestBase\base.class
